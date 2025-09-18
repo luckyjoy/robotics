@@ -1,1 +1,0 @@
-[{"values":["Model=Gazebo_Pioneer3DX"],"name":"Robot"},{"values":["Engine=PyBullet"],"name":"Simulation"},{"values":["System=Windows 11"],"name":"Operating"},{"values":["Version=3.13.7"],"name":"Python"},{"values":["Version=1.0.0URL=https://luckyjoy.github.io/robotics"],"name":"Framework"}]
